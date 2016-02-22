@@ -59,8 +59,8 @@ hero_video = {
         '       <div class="pause material-icons waves-effect">pause</div>' +
         '   </div>' +
         '   <div class="col s6">' +
-        '       <div class="mute material-icons hide">volume_up</div>' +
-        '       <div class="unmute material-icons">volume_off</div>' +
+        '       <div class="mute material-icons waves-effect hide">volume_up</div>' +
+        '       <div class="unmute material-icons waves-effect">volume_off</div>' +
 
         '   </div>' +
         '</div>';
