@@ -19,12 +19,14 @@
     height: 100%;
     top: 0;
     left: 0;
-    background-color: rgba(0, 0, 0, 0.76);
+    background-color: transparent;
     z-index: 1; }
   .hero_video_pkg .controls {
     position: absolute;
     bottom: 0;
-    right: 20;
+    left: 0;
+    right: 0;
+    margin: auto;
     width: 60px;
     color: #fff; }
     .hero_video_pkg .controls .material-icons {
